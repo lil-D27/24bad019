@@ -7,7 +7,7 @@ The dataset for this project is taken from **Kaggle**:
 https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 ## Code 
-
+https://github.com/lil-D27/24bad019/blob/9099953a74d9c1cf4afb322f89205bd3bf0648ab/SCENARIO%201.py
 
 ## 📈 Output
 
@@ -26,6 +26,9 @@ The dataset for this project is taken from **Kaggle**:
 🔗 **Hospital Patient Records**  
 https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
+## Code 
+https://github.com/lil-D27/24bad019/blob/9099953a74d9c1cf4afb322f89205bd3bf0648ab/SCENARIO%202.py
+
 ## 📈 Output
 
 ### Output 1
@@ -42,6 +45,9 @@ The dataset for this project is taken from **Kaggle**:
 
 🔗 **Housing Dataset**  
 https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
+
+## Code 
+https://github.com/lil-D27/24bad019/blob/9099953a74d9c1cf4afb322f89205bd3bf0648ab/SCENARIO%203.py
 
 ## 📈 Output
 
@@ -60,6 +66,9 @@ The dataset for this project is taken from **Kaggle**:
 
 🔗 **Banking Customer Data**  
 https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
+
+## Code 
+https://github.com/lil-D27/24bad019/blob/9099953a74d9c1cf4afb322f89205bd3bf0648ab/SCENARIO%204.py
 
 ## 📈 Output
 
